@@ -29,16 +29,6 @@ loose_params = false
 mods = [
 	{ enabled = true, name = "onionringrandomizer", path = "mod_onion_ring_randomizer" },
 	{ enabled = true, name = "onionring", path = "mod_onion_ring" },
-#	{ enabled = true, name = "swordmastery", path = "mod_sword_mastery" },
-#	{ enabled = true, name = "err", path = "mod_err" },
-	{ enabled = true, name = "medievalon", path = "mod_medievalon" },
-#	{ enabled = true, name = "randomizer", path = "randomizer" },
-#	{ enabled = true, name = "morespawns", path = "mod_morespawns" },
-#	{ enabled = true, name = "attackrecoveryoverhaul_err", path = "mod_attackrecoveryoverhaul_err" },
-#   { enabled = true, name = "firebending", path = "mod_firebending" },
-#	{ enabled = true, name = "era", path = "mod_era" },
-#  	{ enabled = true, name = "unlocked_summons", path = "mod_unlocked_summons" },
-#	{ enabled = true, name = "unlocked_unique_skills_free", path = "mod_unlocked_unique_skills_free" }
 ]
 
 # When enabled, scylly hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
