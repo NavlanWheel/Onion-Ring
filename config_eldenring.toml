@@ -27,8 +27,10 @@ loose_params = false
 # will have the modded file be loaded in the case of conflict. Some support for merging of params and potentially other assets is considered for
 # a future release.
 mods = [
-	{ enabled = true, name = "onionringrandomizer", path = "mod_onion_ring_randomizer" },
-	{ enabled = true, name = "onionring", path = "mod_onion_ring" },
+	{ enabled = true, name = "Onion_Ring_Reforged", path = "mod_onion_ring_reforged" },
+	{ enabled = true, name = "Elden_Ring_Reforged", path = "mod_ERRv0.4.36" },
+	{ enabled = true, name = "Onion_Ring_Randomizer", path = "mod_onion_ring_randomizer" },
+	{ enabled = true, name = "Onion_Ring", path = "mod_onion_ring" },
 ]
 
 # When enabled, scylly hide will be injected into the game. This allows for antidebug measures in the game to be bypassed so that you can attach
