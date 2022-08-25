@@ -20,7 +20,8 @@
 - Elden Ring Reforged[^3]
 - Moveset Animation Remix[^4]
 - Randomized Weather[^5]
-- Unkillable Torrent][^6]
+- Unkillable Torrent[^6]
+- Martial Arts[^7]
 
 #### Installation
 
@@ -31,17 +32,17 @@
 #### Seamless coop compatibility setup:
 
 0. Setup and run seamless coop mod, then create a character at least once to ensure a .co2 save file exists. Save files may be found in C:\Users\<username>\AppData\Roaming\EldenRing\<saveid>
-1. Download and extract Elden Mod Loader[^7] to your Elden Ring Game folder, e.g. C:\Program Files (x86)\Steam\steamapps\common\ELDENRING\Game or C:\SteamLibrary\steamapps\common\ELDEN RING\Game
-3. Move elden_ring_seamless_coop.dll and seamlesscoopsettings.ini files[^8] to the extracted Elden Mod Loader mods folder (remember to set coop password in seamlesscoopsettings.ini).
+1. Download and extract Elden Mod Loader[^8] to your Elden Ring Game folder, e.g. C:\Program Files (x86)\Steam\steamapps\common\ELDENRING\Game or C:\SteamLibrary\steamapps\common\ELDEN RING\Game
+3. Move elden_ring_seamless_coop.dll and seamlesscoopsettings.ini files to the extracted Elden Mod Loader mods folder.[^9] Remember to set coop password in seamlesscoopsettings.ini file.
 4. Run game via launchmod_eldenring.bat in Onion Ring folder.
 
 #### Uninstallation
 
-- [ ] Restore all game files to normal (and/or stop using the Mod Engine Launcher).
-- [ ] Delete any progress made in all save slots while the mod was active (may be avoided by using a launcher with an alternate save file). 
-Checklist:
+- Restore all game files to normal (and/or stop using the Mod Engine Launcher).
+- Delete any progress made in all save slots while the mod was active (may be avoided by using a launcher with an alternate save file). 
+- [ ] Checklist:
 0. Delete or move dinput8.dll from your Elden Ring Game folder
-1. Restore your normal (.sl2) save file backup (or delete all saves)
+1. Restore your normal (.sl2) save file backup if it was altered (or delete all saves)
 2. Optional: delete seamless coop files; elden_ring_seamless_coop.dll, seamlesscoopsettings.ini and launch_elden_ring_seamlesscoop.exe
 
 [^0]: [ModEngine2](https://github.com/soulsmods/ModEngine2/releases)
@@ -51,5 +52,6 @@ Checklist:
 [^4]: [Moveset Animation Remix](https://www.nexusmods.com/eldenring/mods/920)
 [^5]: [Randomized Weather](https://www.nexusmods.com/eldenring/mods/2077)
 [^6]: [Unkillable Torrent](https://www.nexusmods.com/eldenring/mods/1008)
-[^7]: [EldenModLoader](https://www.nexusmods.com/eldenring/mods/117)
-[^8]: [Compatibility article](https://www.nexusmods.com/eldenring/articles/94)
+[^7]: [Martial Arts](https://www.nexusmods.com/eldenring/mods/2051)
+[^8]: [EldenModLoader](https://www.nexusmods.com/eldenring/mods/117)
+[^9]: [Compatibility article](https://www.nexusmods.com/eldenring/articles/94)
